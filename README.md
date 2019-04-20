@@ -1,4 +1,4 @@
-# Move
+# WalkDistanceApp
 Build a simple fitness app for Android with the following requirements:
 1. Support different users with user credentials (username and password)
 2. Get and store locally the distance walked
